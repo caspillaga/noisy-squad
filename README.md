@@ -3,7 +3,7 @@ A noisy version of the SQuAD dataset
 
 Distributed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) license
 
-This dataset was built by adding noise to the SQuAD 1.1 dataset ("SQuAD: 100,000+ Questions for Machine Comprehension of Text" by Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev and Percy Liang)
+This dataset was built by adding noise to the [SQuAD 1.1](https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/) dataset ("SQuAD: 100,000+ Questions for Machine Comprehension of Text" by Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev and Percy Liang)
 
 The dataset contains 5 types of noise, inspired on previous work by [Belinkov and Bisk (2018)](https://arxiv.org/abs/1711.02173):
 
